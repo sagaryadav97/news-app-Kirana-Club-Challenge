@@ -30,7 +30,7 @@ const SplashScreen = () => {
           style={{ resizeMode: "contain", height: 500, width: 400 }}
         />
         <Text style={{ fontSize: 28, fontWeight: "700", textAlign: "center" }}>
-          News
+          My News
         </Text>
       </View>
     </View>
